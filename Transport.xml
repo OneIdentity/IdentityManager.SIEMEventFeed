@@ -1,0 +1,17 @@
+<DBTransporter Version="3.0">
+  <Header>
+    <Parameter Name="Edition">STE</Parameter>
+    <Parameter Name="Version">9.2</Parameter>
+    <Parameter Name="ExportDate">2023-11-03 06:32:38</Parameter>
+    <Parameter Name="Description">This tranport package includes the schema extension, scripts, process orchestration and initial data for the CEF solution accelerator. Refer to the documentation for details on how this solution works and what is included in this transport.</Parameter>
+    <Parameter Name="Parts">Cumulative</Parameter>
+    <Parameter Name="Costs">S28|C231|D0</Parameter>
+  </Header>
+  <Tasks>
+    <Task Class="VI.Transport.CumulativeTransport, VI.Transport" Display="CumulativeTransport">
+      <Parameter Name="Costs">S28|C231|D0</Parameter>
+      <Parameter Name="TaskPath">CumulativeTransport</Parameter>
+    </Task>
+  </Tasks>
+  <Modules />
+</DBTransporter>

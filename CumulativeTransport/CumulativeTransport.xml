@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CumulativeTransports>
+  <Transport>
+    <FileName>CEFConfigParams.zip</FileName>
+  </Transport>
+  <Transport>
+    <FileName>CEFSchema.zip</FileName>
+    <RunCompiler>True</RunCompiler>
+  </Transport>
+  <Transport>
+    <FileName>CEFScripts.zip</FileName>
+  </Transport>
+  <Transport>
+    <FileName>CEFProcessOrchestration.zip</FileName>
+  </Transport>
+  <Transport>
+    <FileName>CEFProcessAutomation.zip</FileName>
+    <RunCompiler>True</RunCompiler>
+  </Transport>
+  <Transport>
+    <FileName>CEFData.zip</FileName>
+  </Transport>
+</CumulativeTransports>
