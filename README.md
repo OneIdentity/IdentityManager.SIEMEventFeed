@@ -11,7 +11,7 @@ This Solution Accelerator is delivered "as is".  Any issues encountered can be r
 - [Please click this link for detailed installation and usage documentation](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed/raw/main/One%20Identity%20Manager%20-%20Solution%20Accelerator%20for%20SIEM%20integration.docx)
 
 ### Solution Accelerator Files
-- [Table Scripts](://raw.githubusercontent.com/OneIdentity/IdentityManager.SIEMEventFeed/main/CEF_TableScripts.vb)
-- [Other Needed Files](https://github.com/OneIdentity/IDMSIEMEventFeed/raw/main/CEF_Solution_Accelerator_v1.zip)
+- [Table Scripts](https://raw.githubusercontent.com/OneIdentity/IdentityManager.SIEMEventFeed/main/CEF_TableScripts.vb)
+- [Other Needed Files](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed/raw/main/CEF_Solution_Accelerator_v1.zip)
 
 
