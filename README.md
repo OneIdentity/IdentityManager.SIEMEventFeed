@@ -8,7 +8,7 @@ This solution accelerator allows One Identity Manager events to be fed to the ma
 This Solution Accelerator is delivered "as is".  Any issues encountered can be reported on Github and contributors will make a best effort to resolve them.
 
 ### Documentation
-- [Please click this link for detailed installation and usage documentation](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed/raw/main/One%20Identity%20Manager%20-%20Solution%20Accelerator%20for%20SIEM%20integration.docx)
+- [Please click this link for detailed installation and usage documentation](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed/raw/main/One%20Identity%20Manager%20Risk%20Dashboard%20Solution%20Accelerator.docx)
 
 ### Solution Accelerator Files
 - [Table Scripts](https://raw.githubusercontent.com/OneIdentity/IdentityManager.SIEMEventFeed/main/CEF_TableScripts.vb)
